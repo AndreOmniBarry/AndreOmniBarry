@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Courage Aganmwonyi-Barry</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend/ Backend Developer</h3>
+- 💬 I'm currently working on **Building web application**
 
-- 💬 Ask me about **react, javascript, html, css**
+- 💬 Ask me about **React, javascript, html, css**
 
 - 📫 How to reach me **courageaganwonyi@gmail.com**
 
