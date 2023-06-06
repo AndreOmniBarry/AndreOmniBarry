@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Courage Aganmwonyi-Barry</h1>
-<h3 align="center">A passionate frontend/ Backend Developer</h3>
+<h3 align="center">A passionate Frontend/ Backend Developer</h3>
 
 - 💬 I'm currently working on **Building web application**
 
