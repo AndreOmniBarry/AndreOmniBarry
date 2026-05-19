@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Courage Aganmwonyi-Barry</h1>
+<h1 align="center">Hi 👋, I'm Drey Courage Aganmwonyi-Barry</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 - 💬 I'm currently working on **Developing functional web application**
