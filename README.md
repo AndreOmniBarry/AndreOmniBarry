@@ -1,15 +1,71 @@
-<h1 align="center">Hi 👋, I'm Drey Courage Aganmwonyi-Barry</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Andre Courage Aganmwonyi-Barry</h1>
+<h3 align="center">Founder · OmniBarry Inc. | AI Builder · Product Engineer · Entrepreneur</h3>
 
-- 💬 I'm currently working on **Developing functional web application**
-
-- 💬 Ask me about **React, javascript, html, CSS, Vue.JS**
-
-- 📫 How to reach me **courageaganwonyi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <em>Building technology that serves people — from Lagos to London, and every nation in between.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### What I'm building
+
+**Living Word** — A multilingual Bible app for all nations. 2,500+ Bible versions across 1,600+ languages, powered by Logic AI (an in-app Bible scholar), built with React, Supabase, and Capacitor. Available on web and Android.
+
+> *"Go therefore and make disciples of all nations"* — Matthew 28:19
+
+---
+
+### What I do
+
+- **Product Engineering** — Full-stack web and mobile apps from concept to deployment
+- **AI Integration** — Building real AI-powered products with LLMs, not just demos
+- **Mobile Development** — React web to Android/iOS via Capacitor
+- **Founder** — OmniBarry Inc. · Building with purpose
+
+---
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### Featured Project
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Living Word](https://living-word-ivory.vercel.app) | Bible for All Nations — multilingual, AI-powered, offline-capable | React · Supabase · Capacitor · Groq |
+
+---
+
+### Currently
+
+- Shipping Living Word to Android and iOS
+- Expanding OmniBarry Inc. product portfolio
+- Open to collaboration on meaningful products
+
+---
+
+### Connect
+
+📧 [thelivingwordapp@gmail.com](mailto:thelivingwordapp@gmail.com) · Personal: [courageaganwonyi@gmail.com](mailto:courageaganwonyi@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreOmniBarry&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOmniBarry&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
