@@ -11,9 +11,9 @@
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [Living Word](https://living-word-ivory.vercel.app) | Bible for All Nations — 2,500+ versions, 1,600+ languages, AI-powered study (Logic AI), offline-capable, Android APK | React · Supabase · Groq · Capacitor |
-| [SHEP.HERD](https://shepherd-app-beta.vercel.app) | Church Intelligence Platform — real-time attendance, giving, and member data for The Comforters House Global. Multi-agent AI (Moshe, Ktava, ArkMind) delivers instant pastoral reports from a single prompt | React · Supabase · RAG · Multi-Agent AI |
-| [ChessHub](https://github.com/AndreOmniBarry/Chess-with-OmniBarry) | Full chess engine built from scratch — no libraries, no external engine. FIDE rules, minimax with alpha-beta pruning, quiescence search, ~2000–2200 Elo, beginner to club-player difficulty, adaptive AI | Vanilla JS · HTML5 · CSS3 |
+| [Living Word](https://living-word-ivory.vercel.app) | Bible for All Nations — 2,500+ versions, 1,600+ languages, Logic AI scholar, offline-capable, Android APK | React · Supabase · Groq · Capacitor |
+| [SHEP.HERD](https://shepherd-app-beta.vercel.app) | Church Intelligence Platform — real-time attendance, giving and member data. Multi-agent AI (Moshe, Ktava, ArkMind) delivers instant pastoral reports from a single prompt | React · Supabase · RAG · Multi-Agent AI |
+| [ChessHub](https://omni-barry-chesshub.vercel.app) | Full chess engine from scratch — no libraries, no external engine. FIDE rules, minimax with alpha-beta pruning, ~2000–2200 Elo, beginner to club-player difficulty, adaptive AI | Vanilla JS · HTML5 · CSS3 |
 
 ---
 
@@ -21,7 +21,7 @@
 
 - **AI Product Engineering** — Shipping real AI-powered products with LLMs, RAG pipelines, and multi-agent systems
 - **Full-Stack Development** — React, Supabase, Node.js from idea to production
-- **Mobile** — Web to Android/iOS via Capacitor
+- **Mobile** — Web to Android and iOS via Capacitor
 - **Founder** — OmniBarry Inc. Building with purpose
 
 ---
@@ -48,7 +48,7 @@
 ### Currently
 
 - Shipping Living Word to Android and iOS
-- Expanding SHEP.HERD to more church communities across Nigeria
+- Expanding SHEP.HERD to church communities across Nigeria
 - Building out the OmniBarry Inc. product portfolio
 - Open to collaboration on meaningful technology
 
