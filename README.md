@@ -7,20 +7,22 @@
 
 ---
 
-### What I'm building
+### What I build
 
-**Living Word** — A multilingual Bible app for all nations. 2,500+ Bible versions across 1,600+ languages, powered by Logic AI (an in-app Bible scholar), built with React, Supabase, and Capacitor. Available on web and Android.
-
-> *"Go therefore and make disciples of all nations"* — Matthew 28:19
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [Living Word](https://living-word-ivory.vercel.app) | Bible for All Nations — 2,500+ versions, 1,600+ languages, AI-powered study (Logic AI), offline-capable, Android APK | React · Supabase · Groq · Capacitor |
+| [SHEP.HERD](https://shepherd-app-beta.vercel.app) | Church Intelligence Platform — real-time attendance, giving, and member data for The Comforters House Global. Multi-agent AI (Moshe, Ktava, ArkMind) delivers instant pastoral reports from a single prompt | React · Supabase · RAG · Multi-Agent AI |
+| [ChessHub](https://github.com/AndreOmniBarry/Chess-with-OmniBarry) | Full chess engine built from scratch — no libraries, no external engine. FIDE rules, minimax with alpha-beta pruning, quiescence search, ~2000–2200 Elo, beginner to club-player difficulty, adaptive AI | Vanilla JS · HTML5 · CSS3 |
 
 ---
 
 ### What I do
 
-- **Product Engineering** — Full-stack web and mobile apps from concept to deployment
-- **AI Integration** — Building real AI-powered products with LLMs, not just demos
-- **Mobile Development** — React web to Android/iOS via Capacitor
-- **Founder** — OmniBarry Inc. · Building with purpose
+- **AI Product Engineering** — Shipping real AI-powered products with LLMs, RAG pipelines, and multi-agent systems
+- **Full-Stack Development** — React, Supabase, Node.js from idea to production
+- **Mobile** — Web to Android/iOS via Capacitor
+- **Founder** — OmniBarry Inc. Building with purpose
 
 ---
 
@@ -28,40 +30,35 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 </p>
-
----
-
-### Featured Project
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Living Word](https://living-word-ivory.vercel.app) | Bible for All Nations — multilingual, AI-powered, offline-capable | React · Supabase · Capacitor · Groq |
 
 ---
 
 ### Currently
 
 - Shipping Living Word to Android and iOS
-- Expanding OmniBarry Inc. product portfolio
-- Open to collaboration on meaningful products
+- Expanding SHEP.HERD to more church communities across Nigeria
+- Building out the OmniBarry Inc. product portfolio
+- Open to collaboration on meaningful technology
 
 ---
 
 ### Connect
 
-📧 [thelivingwordapp@gmail.com](mailto:thelivingwordapp@gmail.com) · Personal: [courageaganwonyi@gmail.com](mailto:courageaganwonyi@gmail.com)
+📧 [thelivingwordapp@gmail.com](mailto:thelivingwordapp@gmail.com) · [courageaganwonyi@gmail.com](mailto:courageaganwonyi@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/courage-aganwonyi-barry/)
 
 ---
 
